@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:title="@string/guns"
+        android:id="@+id/menu_guns_bottom"
+        android:icon="@drawable/ic_gun"/>
+    <item android:title="@string/tricks"
+        android:id="@+id/menu_tricks_bottom"
+        android:icon="@drawable/ic_learn"/>
+    <item android:title="@string/maps"
+        android:id="@+id/menu_maps_bottom"
+        android:icon="@drawable/ic_map"/>
+
+</menu>
